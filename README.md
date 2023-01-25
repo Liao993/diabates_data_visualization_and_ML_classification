@@ -1,5 +1,5 @@
 # diabates_data_visualization_and_ML_classification
-Data Information
+
 
 About Dataset Context
 
@@ -13,6 +13,8 @@ Pregnancies: Number of times pregnant Glucose: Plasma glucose concentration a 2 
 
 (a) Original owners: National Institute of Diabetes and Digestive and Kidney Diseases (b) Donor of database: Vincent Sigillito (vgs@aplcen.apl.jhu.edu) Research Center, RMI Group Leader Applied Physics Laboratory The Johns Hopkins University Johns Hopkins Road Laurel, MD 20707 (301) 953-6231 (c) Date received: 9 May 1990
 
+
 Introduction
+
 This is my second ML project. This time, I have done Feature Engineering and normalized numerical data before training a model. I have tried around ten different machine learning models to see whcih ML model has the greatest prediction. Please give me stars if you like it.
 
